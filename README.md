@@ -120,6 +120,7 @@ Developed by **Saurish Dobhal**
 <a href="https://github.com/dobhalsaurish">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" alt="GitHub Profile">
 </a>
+
 <a href="https://www.linkedin.com/in/dobhalsaurish/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn Profile">
 </a>
@@ -128,6 +129,7 @@ Developed by **Saurish Dobhal**
 <a href="https://github.com/gauravsoni02">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" alt="GitHub Profile">
 </a>
+
 <a href="https://www.linkedin.com/in/gauravsoni02/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn Profile">
 </a>
