@@ -115,5 +115,7 @@ hostel: "Hostel timings are till 7:00 PM."
 ---
 
 ## 👨‍💻 Author
-Developed by **Saurish Dobhal** 💡  
-             **Gaurav Soni**
+Developed by **Saurish Dobhal- GitHub: https://github.com/dobhalsaurish
+                               Linkedin: https://www.linkedin.com/in/dobhalsaurish/** 💡  
+             **Gaurav Soni- GitHub: https://github.com/gauravsoni02
+                            Linkedin: https://www.linkedin.com/in/gauravsoni02/**
